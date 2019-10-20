@@ -1,6 +1,4 @@
-/*global describe, it */
-
-describe('deli', () => {
+('deli', () => {
   describe('takeANumber', () => {
     var katzDeli;
     var otherDeli;
